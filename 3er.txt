@@ -1,0 +1,81 @@
+<HTML>
+
+<HEAD>
+
+<TITLE>MIS CANTANTESl</TITLE>
+
+<HEAD>
+
+<BODY BGCOLOR="#FFD2D2">
+
+<TABLE BGCOLOR="#FFD2D2" BORDER="2" CELLPADDING="3" CELLSPACING="15" BORDERCOLOR= "purple">
+
+<CAPTION ALIGN="TOP"><img src="ima1.jpg" width="150" height="150" align="left">
+<FONT COLOR="#750075" SIZE="8" FACE="Arial Rounded MT Bold"><center> <b>MIS CANTANTES<br> FAVORITOS </b></FONT></center>
+ <img src="ima2.jpg" width="90" height="90" align="right">
+<img src="ima3.jpg" width="90" height="90" align="right"></CAPTION><br></br>
+
+<tr align="center"> <td> <img src="ima4.jpg" width="80" height="40"></td>
+
+<center><img src="ima5.jpg" width="90" height="90"><img src="ima6.gif" width="90" height="90"></center></td>
+ <td><img src="ima7.jpg" width="80" height="40"></td>
+ <td><img src="ima8.gif" width="80" height="40"></td> </tr>
+
+ <th BGCOLOR="white" Colspan="2"> <FONT COLOR="purple" SIZE="4" FACE="Arial Narrow" > <b>
+
+ME ENSEÑARON </b></FONT> </th>
+
+<th BGCOLOR="white"> <FONT COLOR="purple" SIZE="4" FACE="Arial Narrow"> <b> ELLOS </b></FONT> </th>
+
+<td width="8%"> </td>
+
+<th BGCOLOR="white"> <FONT COLOR="purple" SIZE="4" FACE="Arial Narrow"> <b> FOTITO</b>
+
+</FONT></th></tr
+
+<tr> <td align="center"> <img src="ima9.gif" width="250" height="250"></td>
+<td width="43%> <FONT COLOR="white" SIZE="1" FACE="Arial Narrow">ELLOS ME HAN ENSEÑADO A ESCUCHAR MI CORAZON,APESAR DE LO DIFICIL QUE SEA TODO ,SI TE ESFUERZAS Y DAS TU MAXIMOESFUERZO PODRE CONSEGUIR GRANDES COSAS.GRACIAS A SUS CANCIONES SIENTO QUE EL MUNDO ESTA LLENO DE COLOR,O POR LO MENOS UN POCO MAS QUE AYER.ME AYUDAN A OLVIDAR DIAS MALOS O SITUACIONES DIFICILES,ME APORTAN FELICIDAD APESAR DE HABLAR OTRO IDIOMA Y VIVIR EN LA OTRA PUNTA DELMUNDO</FONT></td>
+ <td width="10%"><img src="ima21.gif" align="center" width="150" height"150"></td>
+<td align="center"><img src="ima10.jpg" width="150" height="150"> </td> 
+<td align="center"><img src="ima11.jpg" width="150" height="150"> </td> </tr>
+
+<tr> <td align="center"> <img src="ima12.jpg" width="250" height="250"></td>
+<td width="43%> <FONT COLOR="white" SIZE="1" FACE="Arial Narrow"> NAM ME ENSEÑO A SE MAS MADURA, A DEJAR DE LADO LO MALO Y HACER LO QUE NE VERDAD ME APACIONA ,EL ES UN HOMBRE MADURO QUE PIENSA EN AYUDAR A LOS DEMOS ES POR ESO QUE ME DEMUESTRA DIA A DIA QUE AUN HAY PERSONAS BUENAS EN EL MUNDO</FONT></td>
+<td width="10%"><img src="ima13.gif" align="center" width="150" height"150"></td>
+<td align="center"><img src="ima14.jpg" width="150" height="150"> </td> 
+<td align="center"><img src="ima15.jpg" width="150" height="150"> </td> </tr>
+
+<tr> <td align="center"> <img src="ima20.jpg" width="250" height="250"></td>
+<td width="43%> <FONT COLOR="white" SIZE="1" FACE="Arial Narrow"> JUNGKKOK ES MI BIAS(INTEGRANTE FAVORITO DE LA BANDA) DE EL APRENDI A DAR LO MEJOR DE MI,ME ENSEÑO LO QUE ES EL AMOR POR LOS DEMAS Y QUE ATRAS DE TODAS LAS PERSONAS Y SU SONRISA HAY UN SENTIMIENTO QUE VA EN CONTRA DE LO QUE UNO DICE...</FONT></td>
+<td width="10%"><img src="ima17.gif" align="center" width="150" height"150"></td>
+<td align="center"><img src="ima18.jpg" width="150" height="150"> </td> 
+<td align="center"><img src="ima19.jpg" width="150" height="150"> </td> </tr>
+
+<tr> <td align="center"> <img src="ima22.jpg" width="250" height="250"></td>
+<td width="43%> <FONT COLOR="white" SIZE="1" FACE="Arial Narrow"> SEOKJIN DE EL APRENDI A TENER MAYOR AUTOESTIMA, ME ENSEÑO A EZFORARME SIN IMPORTAR LOS OBSTACULOS Y EL QUE DIRAN,EL SIEMPRE PIENSA POSITIVAMENTE Y NO LE IMPORTA LO QUE OPINEN</FONT></td>
+<td width="10%"><img src="ima23.gif" align="center" width="150" height"150"></td>
+<td align="center"><img src="ima24.jpg" width="150" height="150"> </td> 
+<td align="center"><img src="ima25.jpg" width="150" height="150"> </td> </tr>
+
+<tr> <td align="center"> <img src="ima26.jpg" width="250" height="250"></td>
+<td width="43%> <FONT COLOR="white" SIZE="1" FACE="Arial Narrow"> HOBI A LUCHADO POR MUCHOS AÑOS PARA QUE YA NO HAYA MAS BULLING NI DISCRIMINACION POR QUE EL SOLIA SER MUY ATACADO POR SUN ASPECCTO FISICO EL ME ENSEÑO A VER EL LADO POSITIVO A TODO TAMBIEN ME ENSEÑO A SEGUIR ADELANTE CON UNA SONRISA SIN IMPORTAR LAS CRITICAS EL ME AYUDO A TENER MAS AMOR PROPIO POR EL SOY MAS FELIZ POR QUE YA NO ME IMPORTA LO QUE ME DIGAN LOS DEMAS</FONT></td>
+<td width="10%"><img src="ima27.gif" align="center" width="150" height"150"></td>
+<td align="center"><img src="ima28.jpg" width="150" height="150"> </td> 
+<td align="center"><img src="ima29.jpg" width="150" height="150"> </td> </tr>
+
+<tr> <td align="center"> <img src="ima30.jpg" width="250" height="250"></td>
+<td width="43%> <FONT COLOR="white" SIZE="1" FACE="Arial Narrow">DE YOONGI APRENDI A SER VALIENTE Y FUERTE,ME ENSEÑO A IGNORAR LOS QUE DICEN QUE NO LO PUEDO LOGRAR MIS OBJETIVOS EL SIN IMPORTAR TODO LO QUE LE HACE DAÑO SIEMPRE HACE FELIZ A ARMY </FONT></td>
+<td width="10%"><img src="ima31.gif" align="center" width="150" height"150"></td>
+<td align="center"><img src="ima32.jpg" width="150" height="150"> </td> 
+<td align="center"><img src="ima33.jpg" width="150" height="150"> </td> </tr>
+
+<tr> <td align="center"> <img src="ima34.jpg" width="250" height="250"></td>
+<td width="43%> <FONT COLOR="white" SIZE="1" FACE="Arial Narrow">DE JIMIN APRENDI A VER EL LADO TIERNO ME ENSEÑO A AYUDARME A MI MISMA Y ENSEÑAR ESE LADOPOSITIVO QUE TODOS TENEMOS </FONT></td>
+<td width="10%"><img src="ima35.gif" align="center" width="150" height"150"></td>
+<td align="center"><img src="ima36.jpg" width="150" height="150"> </td> 
+<td align="center"><img src="ima37.jpg" width="150" height="150"> </td> </tr>
+
+
+
+
+
